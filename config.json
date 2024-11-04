@@ -1,0 +1,9 @@
+{
+  "manual_token" : "eyJraWQiOiI3UWxXckF6K0RSMWtvR2c5VmJUem5INXdwWGxVM1EwYUNnd1FDVmU2WVM0PSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwNDU3YzMzNS0yNzBlLTQyNzktOTg4OS1kZTk1N2ZjOTBkZTMiLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtZWFzdC0xLmFtYXpvbmF3cy5jb21cL3VzLWVhc3QtMV9HQmpZQXA4UVQiLCJjbGllbnRfaWQiOiIxOXJvbjZldjlkNDR1YW5iZ2QxbGxkZW5sZSIsIm9yaWdpbl9qdGkiOiI0OTBiMGM0OS1mNmFjLTQzNjEtOWY0ZC1iZTI2MmRlMGZhYTkiLCJldmVudF9pZCI6IjQwZGIxODVhLWIyZjctNDdkZS05NTZhLWU1NzEzNTAzNmE5ZiIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiYXdzLmNvZ25pdG8uc2lnbmluLnVzZXIuYWRtaW4iLCJhdXRoX3RpbWUiOjE3MzA3MjQ5NjEsImV4cCI6MTczMDgxMTM2MSwiaWF0IjoxNzMwNzI0OTYxLCJqdGkiOiI3N2Q3MzhjZS1mMjY4LTQyZGItYTNkNy1jMjJmNGQwNzEwZDkiLCJ1c2VybmFtZSI6ImpqdWFuaWxsb0BkZWFsZXJjbW8uY29tIn0.kKQXAiQAS3ZJqO67ZnIgRsDT6KQU76TsvaMTOk0fvDQYaLxFIkEfQRvWegoFLuZ9bArnNtlFSdCE3A3zoWxl0rG9OqY2XcxsmieWcoRlNNmBelLzSP_437743d_jEHmw9nPrCwvwi7p4QMUe5BnxphLD_Q3P57evMBiCrvtb6c8ysAkwHAoyHtACQsmKVyu2baH8oKeVszardHPTjltqOqc0InwWKSEdMKqV1pinLbFZl5ZmWE_3SJHCdK-HiJR2QEn4F87fTomB0nG9twm3gwxAlYUu3JMpeH-BT_CnLea7WahQRCSAxPCHJZ-8wNiqWvw_K8ArFt1lEAzbJDnpCg",
+  "Content_Type": "application/json",
+  "BASE_URL" : "https://api.vindrives.app/",
+  "DealerList" : [
+        {"id": 1, "dealerID": "6b242ed9-9347-32fb-8d99-2f7fea38d10e", "DealerName": "Demo Client"},
+        {"id": 2, "dealerID": "e06434fa-4034-3496-9be6-7dbe46bc94ae", "DealerName": "Moses Mitsubishi Morgantown"}
+  ]
+}
